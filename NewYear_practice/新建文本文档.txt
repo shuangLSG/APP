@@ -1,0 +1,4 @@
+less：css部分使用less预处理的方式实时编译
+特效大量采用CSS3 animation动画
+元素运动部分使用CSS3的过渡、变换、缩放（transform、translate、scale、rotate）
+运用audio音频标签
